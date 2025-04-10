@@ -1,0 +1,18 @@
+{
+   "firstName": "Muhammad Zaky",
+   "lastName": "Amarullah",
+   "gender": "male",
+   "age": 20,
+   "address": {
+       "streetAddress": "Curug",
+       "city": "Kab. Tangerang",
+       "state": "Banten"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CCK2HAB4","name": "Basis Data"}
+       { "code": "CCK2FAB4","name": "Arsitektur Perangkat Lunak" }
+       { "code": "CCK2IAB3", "name": "Dasar Jaringan Komputer"}
+       { "code": "CCK2LAB3","name": "Basis Data" }
+   ]
+}
