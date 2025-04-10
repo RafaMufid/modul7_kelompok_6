@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\Documents\Rafa Mufid\Kuliah\Semester 4\KPL\modul7_kelompok_6\bin\Debug\net8.0\modul7_kelompok_6.exe
+C:\Users\ASUS\OneDrive\Documents\Rafa Mufid\Kuliah\Semester 4\KPL\modul7_kelompok_6\bin\Debug\net8.0\modul7_kelompok_6.deps.json
+C:\Users\ASUS\OneDrive\Documents\Rafa Mufid\Kuliah\Semester 4\KPL\modul7_kelompok_6\bin\Debug\net8.0\modul7_kelompok_6.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Documents\Rafa Mufid\Kuliah\Semester 4\KPL\modul7_kelompok_6\bin\Debug\net8.0\modul7_kelompok_6.dll
+C:\Users\ASUS\OneDrive\Documents\Rafa Mufid\Kuliah\Semester 4\KPL\modul7_kelompok_6\bin\Debug\net8.0\modul7_kelompok_6.pdb
+C:\Users\ASUS\OneDrive\Documents\Rafa Mufid\Kuliah\Semester 4\KPL\modul7_kelompok_6\obj\Debug\net8.0\modul7_kelompok_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Documents\Rafa Mufid\Kuliah\Semester 4\KPL\modul7_kelompok_6\obj\Debug\net8.0\modul7_kelompok_6.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Documents\Rafa Mufid\Kuliah\Semester 4\KPL\modul7_kelompok_6\obj\Debug\net8.0\modul7_kelompok_6.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Documents\Rafa Mufid\Kuliah\Semester 4\KPL\modul7_kelompok_6\obj\Debug\net8.0\modul7_kelompok_6.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Documents\Rafa Mufid\Kuliah\Semester 4\KPL\modul7_kelompok_6\obj\Debug\net8.0\modul7_kelompok_6.sourcelink.json
+C:\Users\ASUS\OneDrive\Documents\Rafa Mufid\Kuliah\Semester 4\KPL\modul7_kelompok_6\obj\Debug\net8.0\modul7_kelompok_6.dll
+C:\Users\ASUS\OneDrive\Documents\Rafa Mufid\Kuliah\Semester 4\KPL\modul7_kelompok_6\obj\Debug\net8.0\refint\modul7_kelompok_6.dll
+C:\Users\ASUS\OneDrive\Documents\Rafa Mufid\Kuliah\Semester 4\KPL\modul7_kelompok_6\obj\Debug\net8.0\modul7_kelompok_6.pdb
+C:\Users\ASUS\OneDrive\Documents\Rafa Mufid\Kuliah\Semester 4\KPL\modul7_kelompok_6\obj\Debug\net8.0\modul7_kelompok_6.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Documents\Rafa Mufid\Kuliah\Semester 4\KPL\modul7_kelompok_6\obj\Debug\net8.0\ref\modul7_kelompok_6.dll

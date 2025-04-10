@@ -1,0 +1,19 @@
+{
+   "firstName": "Rafa",
+   "lastName": "Mufid",
+   "gender": "male",
+   "age": 20,
+   "address": {
+       "streetAddress": "Umayah 1",
+       "city": "Bandung",
+       "state": "Jawa Barat"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CCK2HAB4", "name": "Basis Data" },
+       { "code": "CCK2JAC2", "name": "Proyek Tingkat 2" },
+       { "code": "CCK2FAB4", "name": "Arsitektur dan Desain Perangkat Lunak" },
+       { "code": "CCK2LAB3", "name": "Kecerdasan Buatan" },
+       { "code": "CCK2IAB3", "name": "Dasar Jaringan Komputer" }
+   ]
+}
