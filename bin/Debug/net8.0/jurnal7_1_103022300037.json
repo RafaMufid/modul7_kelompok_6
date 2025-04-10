@@ -1,0 +1,15 @@
+{
+   "firstName": "Ahmad",
+   "lastName": "Dillan",
+   "gender": "male",
+   "age": 25,
+   "address": {
+       "streetAddress": "Lengkong",
+       "city": "Bandung",
+       "state": "West Java"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CRI2LAB3", "name": "Keceradasan Buatan" }
+   ]
+}
