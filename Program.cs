@@ -7,5 +7,7 @@ class program
     {
         var data1 = new DataMahasiswa103022300045();
         data1.ReadJSON();
+        var anggota = new TeamMember103022300045();
+        anggota.ReadJSON();
     }
 }
