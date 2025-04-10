@@ -1,0 +1,39 @@
+{
+  "members" : [
+    {
+       "firstName": "Muhammad Thoriq",
+       "lastName": "Marcello",
+       "gender": "male",
+       "age": 20,
+       "nim": "103022300031"
+    },
+    {
+       "firstName": "Ahmad Dillan",
+       "lastName": "Ramadhan",
+       "gender": "male",
+       "age": 20,
+       "nim": "103022300037"
+    },
+    {
+       "firstName": "Muhammad Zaky",
+       "lastName": "Amarullah",
+       "gender": "male",
+       "age": 20,
+       "nim": "103022300045"
+    },
+	{
+       "firstName": "Rafa Mufid",
+       "lastName": "'Aqila",
+       "gender": "male",
+       "age": 20,
+       "nim": "103022300061"
+    },
+	{
+       "firstName": "Muhammad Reza",
+       "lastName": "Ferdinal",
+       "gender": "male",
+       "age": 20,
+       "nim": "103022300135"
+    }
+  ]
+}
